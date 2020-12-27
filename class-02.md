@@ -12,7 +12,7 @@
 # Attributes require a name and a value.
 # To learn HTML you need to know what tags are available for you to use, what they do, and where they can go.
 
-**interducing css**
+**Introducing CSS**
 # Flash allows you to add animations, video and audio to the web.
 # Flash is not supported on iPhone or iPad.
 # HTML5 introduces new <video> and <audio> elements for adding video and audio to web pages, but these are only supported in the latest browsers.
